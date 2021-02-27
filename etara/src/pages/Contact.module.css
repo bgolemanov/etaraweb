@@ -17,18 +17,15 @@
     width: 100%;
     float: left;
     min-height: 100vh;
-    /* background: #333333;
+    background: #333333;
     background: -webkit-linear-gradient(to bottom, #800020, #333333);
-    background: linear-gradient(to bottom, #800020, #333333); */
+    background: linear-gradient(to bottom, #800020, #333333);
 }
 
 .ContainerRght {
     width: 0%;   
     float: right;
     min-height: 100vh;
-    /* background: #333333;
-    background: -webkit-linear-gradient(to bottom, #800020, #333333);
-    background: linear-gradient(to bottom, #800020, #333333); */
 }
 
 .TextContainer {
