@@ -1,0 +1,113 @@
+.ContainerMain {
+    width: 100%;
+    min-height: 100vh;
+    display: block;
+    border-top: 2px solid #fff;
+    background: #333333;
+    background: -webkit-linear-gradient(to bottom, #800020, #333333);
+    background: linear-gradient(to bottom, #800020, #333333);
+}
+
+.Container {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.ContainerLeft {
+    width: 100%;
+    float: left;
+    min-height: 100vh;
+    /* background: #333333;
+    background: -webkit-linear-gradient(to bottom, #800020, #333333);
+    background: linear-gradient(to bottom, #800020, #333333); */
+}
+
+.ContainerRght {
+    width: 0%;   
+    float: right;
+    min-height: 100vh;
+    /* background: #333333;
+    background: -webkit-linear-gradient(to bottom, #800020, #333333);
+    background: linear-gradient(to bottom, #800020, #333333); */
+}
+
+.TextContainer {
+    color: #fff;
+    padding-top: 3vh;
+    width: 90%;
+    min-height: 100vh;
+    margin: auto;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.MapLeft {
+    width: 100%;
+    padding: 16px 0;
+    cursor: default;
+}
+
+.MapRight {
+    display: none;
+    cursor: default;
+}
+
+.Centeredcontainer p {
+    text-align: center;
+}
+
+.Contactinfo {
+    display: inline-block;
+    color: #fff;
+    font-size: 2.5rem;
+    vertical-align: middle;
+}
+
+@media only screen and (min-width: 768px) {
+
+    .ContainerLeft {
+        width: 50%;
+    }
+    .ContainerRght {
+        width: 50%;
+    }
+    .TextContainer {
+        padding-top: 5vh;
+        font-size: 1.1rem;
+    }
+    .MapLeft {
+        display: none;
+    }
+    .MapRight {
+        display: block;
+        width: 320px;
+        padding-top: 5vh;
+    }
+    .Centeredcontainer p {
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .Container {
+        width: 70%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .Container {
+        width: 50%;
+        margin: auto;
+    }
+    .TextContainer {
+    padding-top: 7vh;
+    font-size: 1.1rem;
+    }
+}
+
+@media only screen and (max-width: 1921) {
+    .ContainerMain {
+        width: 1920px;
+    }
+}

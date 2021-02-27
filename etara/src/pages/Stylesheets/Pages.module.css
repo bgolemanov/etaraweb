@@ -1,0 +1,54 @@
+.Container {
+    border-top: 2px solid #fff;
+    background: #333333;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #800020, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #800020, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    min-height: 100vh;
+    width: 100%;
+}
+
+.TextContainer {
+    color: #fff;
+    padding-top: 3vh;
+    width: 90%;
+    min-height: 100vh;
+    margin: auto;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.Lists {
+    list-style: circle;
+    list-style-position: inside;
+}
+
+.Centeredcontainer p {
+    text-align: center;
+}
+
+.Contactinfo {
+    display: inline-block;
+    color: #fff;
+    font-size: 2.5rem;
+    vertical-align: middle;
+}
+
+@media only screen and (min-width: 768px) {
+    .TextContainer {
+    padding-top: 5vh;
+    font-size: 1.1rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .TextContainer {
+    padding-top: 7vh;
+    font-size: 1.1rem;
+    }
+}
+
+@media only screen and (max-width: 1921) {
+    .Container {
+        width: 1920px;
+    }
+}

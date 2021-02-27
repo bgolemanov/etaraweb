@@ -1,0 +1,62 @@
+{
+    "maps": {
+        "part1": "https://i.imgur.com/bWYiSH2.jpg"
+    },
+    "menus": {
+        "home": "Startseite",
+        "news": "Neuigkeiten",
+        "products": "Produkte",
+        "about": "Über uns",
+        "contact": "Kontakt"
+    },
+    "langmemus": {        
+        "bulgarian": "Български",
+        "german": "Deutsch"
+    },
+    "home": {
+        "part1": "Willkommen in",
+        "part2": "Erleben Sie eine kulinarische Entdeckungsreise durch das Land der Thraker, Slawen und Bulgaren."
+    },
+    "news": {
+        "part1": "Wir haben uns viel vorgenommen! Wir bauen, renovieren und gestalten unser Wein- und Feinkostladen, damit die Eröffnung im März ein Erfolg wird. Seien Sie gespannt!",
+        "part2": "Bald dürfen wir Sie in der Rotwasserstraße 2 in Aschaffenburg - Schweinheim begrüßen.",
+        "part3": "Unser Produktsortiment umfasst sowohl hochwertige bulgarische Weine als auch authentische Feinkost- Spezialitäten, die höchste Qualitätsstandards ausfüllen."
+    },
+    "products": {
+        "part1": "Bugarische Qualitätsprodukte:",
+        "part2": "Wein, Gertränke und Spirituosen",
+        "part3": "Wurst- und Fleischspezialitäten",
+        "part4": "Käse, Milch und Joghurt",
+        "part5": "Nudel und Teigwaren",
+        "part6": "Ljutenitsa, Soßen und Gewürze",
+        "part7": "Nüsse und Samen",
+        "part8": "Süßigkeiten und Snacks",
+        "part9": "Konserven, Marmelade und Honig"
+    },
+    "productsinfo": {
+        "part1": "Bulgarien zählt zu den weltweit größten Weinerzeugerländern. Der Weinbau in Bulgarien hat eine lange Tradition und reicht bis in die Zeit der Thraker um das 8. Jahrhundert vor Christus zurück. ",
+        "part2": "Unser Sortiment umfasst sowohl die eigenen Rebsorten wie Gamza, Mavrud, Pamid, Dimjat und Misket, die es unbedingt zu entdecken lohnt, als auch französische Rebsorten wie Merlot, Cabernet Sauvignon, Chardonnay, Muskateller und Riesling."
+    },
+    "about": {
+        "part1": "Ich begrüße Sie herzlichst in etara Wein & Feinkost!",
+        "part2": "Mein Name ist Ivan Angelov und ich komme aus der wunderschönen Stadt Gabrovo in Zentral- Bulgarien. Die Stadt liegt idyllisch im Tal des Flußes Jantra, am Nordhang des Balkan- Gebirges.",
+        "part3": "Die Legende besagt, dass die Stadt im 12. Jahrhundert vom Schmied Ratscho gegeründet würde. Im 17. Jahrhundert ist Gabrovo bereits als Zentrum des Handwerks und später als Industrie- und Kulturzentrum des Landes bekannt.",
+        "part4": "Das Freilichtmuseum Etar, in der Nähe von Gabrovo bewahrt die bulgarischen Traditionen, die Kultur, die alte Handwerkskunst, sowie die Architektur aus der Zeit der bulgarischen Wiedergeburt. Das Museumsdorf hat einen besonderen Flair mit seinen authentischen Häusern, Werkstätten und der Marktgasse, wo man hochwertige handgefertige Erzeugnisse kaufen kann.",
+        "part5": "Der Name unseres Wein & Feinkost Ladens ist von diesem magischen Ort insperiert, wo Geschichte, Handwerk, Tradition aber auch Nationalstolz aufeinander treffen.",
+        "part6": "Ich hoffe, wir können diesem Namen gerecht werden und die authentische Atmosphäre Etaras für unsere Kunden wiedergeben.",
+        "part7": "Wir freuen uns auf Sie!"
+    },
+    "contact": {
+        "part1": "So erreichen Sie uns:",
+        "part2": "etara Wein & Feinkost",
+        "part3": "Rotwasserstaße 2",
+        "part4": "63743 Aschaffenburg - Schweinheim",
+        "part5": "Telefon: 06021 3288877",
+        "part6": "E-Mail: info@etara.eu",
+        "part7": "Web: www.etara.eu",
+        "part8": "Buslinie 5 - Aussteigen Althohlstr.",
+        "part9": "Buslinie 10 + 15 - Aussteigen Kullmannstr.",
+        "part10": "Buslinie 4 - Aussteigen Gutwerkstr.",
+        "part11": "Folgen Sie uns auf"
+    }
+}
