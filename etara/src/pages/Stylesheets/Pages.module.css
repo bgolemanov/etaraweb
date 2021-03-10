@@ -17,6 +17,11 @@
     padding-bottom: 20px;
 }
 
+.TextContainer a {
+    text-decoration: underline;
+    color: #fff;
+}
+
 .Lists {
     list-style: circle;
     list-style-position: inside;
