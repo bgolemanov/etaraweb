@@ -1,7 +1,7 @@
 .Slideshow { 
     position: fixed;
     width: 100%;
-    min-height: 100vh;
+    min-height: 100%;
     border-top: 2px solid #fff;
     top: 80px;
     left: 0;
@@ -13,7 +13,7 @@
 
 .Slideshow li { 
     width: 100%;
-    min-height: 100vh;
+    min-height: 100%;
     position: absolute;
     top: 0;
     left: 0;

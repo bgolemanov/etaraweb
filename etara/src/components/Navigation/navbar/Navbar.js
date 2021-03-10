@@ -13,7 +13,6 @@ function Navbar() {
 
     return (
         <div className={classes.Navbar}>
-            {/* <h1 className={classes.Logo}>Etara!</h1> */}
                 <ul>
                     <li className={classes.Navtext}><Link to='/'>{t('menus.home')}</Link></li>
                     <li className={classes.Navtext}><Link to='/News'>{t('menus.news')}</Link></li>

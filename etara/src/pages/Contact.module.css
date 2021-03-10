@@ -1,38 +1,32 @@
 .ContainerMain {
     width: 100%;
-    min-height: 100vh;
+    height: 100%;
     display: block;
     border-top: 2px solid #fff;
-    background: #333333;
-    background: -webkit-linear-gradient(to bottom, #800020, #333333);
-    background: linear-gradient(to bottom, #800020, #333333);
 }
 
 .Container {
     width: 100%;
-    min-height: 100vh;
+    height: 100%;
 }
 
 .ContainerLeft {
     width: 100%;
     float: left;
-    min-height: 100vh;
-    background: #333333;
-    background: -webkit-linear-gradient(to bottom, #800020, #333333);
-    background: linear-gradient(to bottom, #800020, #333333);
+    height: 100%;
 }
 
 .ContainerRght {
     width: 0%;   
     float: right;
-    min-height: 100vh;
+    height: 100%;
 }
 
 .TextContainer {
     color: #fff;
     padding-top: 3vh;
     width: 90%;
-    min-height: 100vh;
+    height: 100%;
     margin: auto;
     text-align: justify;
     padding-bottom: 20px;

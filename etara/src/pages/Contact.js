@@ -1,13 +1,12 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next';
-// import classes from './Stylesheets/Pages.module.css';
+
 import * as AiIcons from 'react-icons/ai'
 import classes from './Contact.module.css';
 
 function Contact() {
 
     const { t } = useTranslation();
-    console.log('[CONTACT]')
     return (
         <div className={classes.ContainerMain}>
             <div className={classes.Container}>

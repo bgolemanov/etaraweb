@@ -12,11 +12,9 @@ function Home() {
         <div>
             <Slideshow className={classes.Container}/>
             <div className={classes.Landingheader}>
-                {/* <div className={classes.Transparency}> */}
                     <h1 className={classes.Heading}>{t('home.part1')}</h1>
                     <img src={Logo} className={classes.Logo} alt="#"/>
                     <h1 className={classes.Heading}>{t('home.part2')}</h1>
-                {/* </div> */}
             </div>
         </div>
     )

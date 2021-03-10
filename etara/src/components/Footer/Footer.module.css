@@ -1,0 +1,27 @@
+.Mainfooter {
+    padding-top: 0;
+    border-top: 2px solid #fff;
+    position: relative;
+    bottom: 0px;
+    height: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #333333;
+}
+
+.Footertxt {
+    color: white;
+    font-size: 1rem;
+}
+
+.Footertxt a {
+    text-decoration: underline;
+    color: white;
+
+}
+
+.Footertxt a:visited {
+    text-decoration: none;
+    color: white;
+}
