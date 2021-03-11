@@ -13,6 +13,8 @@ function Impressum() {
                 <p>Rotwasserstr. 2</p>
                 <p>63743 Aschaffenburg</p>
                 <br />
+                <p>USt-IdNr DE340327798</p>
+                <br />
                 <p><strong>Vertreten durch:</strong></p>
                 <p>Ivan Angelov</p>
                 <br />
