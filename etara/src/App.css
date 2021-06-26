@@ -1,6 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
+    font-family: 'Lato', sans-serif;
+    color: #fff
+}
+
+body {
+    overflow: auto;
+}
+
+.jumbotron {
+    background: #333333;
+    background: -webkit-linear-gradient(to bottom, #800020, #333333);
+    background: linear-gradient(to bottom, #800020, #333333);
+    max-height: calc(100vh - 82px);
+    overflow: auto;
+}
+
+.navbar {
+    z-index: 10;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -18,4 +40,4 @@
 
 .content-wrap {
     flex: 1;
-}
+} */

@@ -1,19 +1,34 @@
-import React from 'react'
+import React from 'react';
 import classes from './Slideshow.module.css';
 
 function Slideshow() {
-    return (
-        <div>
-            <ul className={classes.Slideshow}>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-        </div>
-    )
+  return (
+    <ul className={classes.slideshow}>
+      <li>
+        <span></span>{' '}
+      </li>
+      <li>
+        {' '}
+        <span></span>{' '}
+      </li>
+      <li>
+        {' '}
+        <span></span>{' '}
+      </li>
+      <li>
+        {' '}
+        <span></span>{' '}
+      </li>
+      <li>
+        {' '}
+        <span></span>{' '}
+      </li>
+      <li>
+        {' '}
+        <span></span>{' '}
+      </li>
+    </ul>
+  );
 }
 
-export default Slideshow
+export default Slideshow;

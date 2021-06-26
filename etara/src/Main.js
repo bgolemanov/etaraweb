@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom'
+import { Route, Switch } from 'react-router-dom';
 
 import Home from './pages/Home';
 import News from './pages/News';
@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 import Impressum from './pages/Impressum';
 
 const Main = () => (
-    <Switch>
+  <Switch>
     <Route path="/" exact component={Home} />
     <Route path="/news" component={News} />
     <Route path="/products" component={Products} />

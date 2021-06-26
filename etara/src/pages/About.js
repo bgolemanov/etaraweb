@@ -1,30 +1,25 @@
-import React from 'react'
+import React from 'react';
 import { useTranslation } from 'react-i18next';
-import classes from './Stylesheets/Pages.module.css';
+import Container from 'react-bootstrap/Container';
+import Jumbotron from 'react-bootstrap/Jumbotron';
 
 function About() {
+  const { t } = useTranslation();
 
-    const { t } = useTranslation();
-
-    return (
-        <div className={classes.Container}>
-            <div className={classes.TextContainer}>
-            <p>{t('about.part1')}</p>
-            <br/>
-            <p>{t('about.part2')}</p>
-            <br/>
-            <p>{t('about.part3')}</p>
-            <br/>
-            <p>{t('about.part4')}</p>
-            <br/>
-            <p>{t('about.part5')}</p>
-            <br/>
-            <p>{t('about.part6')}</p>
-            <br/>
-            <p>{t('about.part7')}</p>
-            </div>
-        </div>
-    )
+  return (
+    <Jumbotron className="vh-100 mb-0">
+      <Container>
+        <br />
+        <p>{t('about.part1')}</p>
+        <p>{t('about.part2')}</p>
+        <p>{t('about.part3')}</p>
+        <p>{t('about.part4')}</p>
+        <p>{t('about.part5')}</p>
+        <p>{t('about.part6')}</p>
+        <p>{t('about.part7')}</p>
+      </Container>
+    </Jumbotron>
+  );
 }
 
-export default About
+export default About;
