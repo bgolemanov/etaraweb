@@ -18,9 +18,8 @@
         "part2": "Erleben Sie eine kulinarische Entdeckungsreise durch das Land der Thraker, Slawen und Bulgaren."
     },
     "news": {
-        "part1": "Wir haben uns viel vorgenommen! Wir bauen, renovieren und gestalten unser Wein- und Feinkostladen, damit die Eröffnung im März ein Erfolg wird. Seien Sie gespannt!",
-        "part2": "Bald dürfen wir Sie in der Rotwasserstraße 2 in Aschaffenburg - Schweinheim begrüßen.",
-        "part3": "Unser Produktsortiment umfasst sowohl hochwertige bulgarische Weine als auch authentische Feinkost- Spezialitäten, die höchste Qualitätsstandards ausfüllen."
+        "part1": "Liebe Freunde,",
+        "part2": "unser Wein und Feinkost- Laden hat für Sie geöffnet, kommen sie gerne vorbei."
     },
     "products": {
         "part1": "Bugarische Qualitätsprodukte:",
@@ -57,6 +56,8 @@
         "part8": "Buslinie 5 - Aussteigen Althohlstr.",
         "part9": "Buslinie 10 + 15 - Aussteigen Kullmannstr.",
         "part10": "Buslinie 4 - Aussteigen Gutwerkstr.",
-        "part11": "Folgen Sie uns auf"
+        "part11": "Folgen Sie uns auf",
+        "part12": "Öffnungszeiten:",
+        "part13": "Montag - Samstag"
     }
 }
