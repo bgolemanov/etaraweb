@@ -23,7 +23,14 @@ function News() {
         </Row>
         <br />
         <p>{t('news.part1')}</p>
+        <br />
         <p>{t('news.part2')}</p>
+        <br />
+        <p>{t('news.part3')}<br />
+        {t('news.part4')}</p>
+        <br />
+        <p>{t('news.part5')}<br />
+        {t('news.part6')}</p>
         <br />
         <br />
         <Row>

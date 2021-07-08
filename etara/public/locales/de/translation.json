@@ -18,8 +18,12 @@
         "part2": "Erleben Sie eine kulinarische Entdeckungsreise durch das Land der Thraker, Slawen und Bulgaren."
     },
     "news": {
-        "part1": "Liebe Freunde,",
-        "part2": "unser Wein und Feinkost- Laden hat für Sie geöffnet, kommen sie gerne vorbei."
+        "part1": "Hallo liebe Freunde,",
+        "part2": "endlich ist es geschafft! Unsere Eröffnung war ein voller Erfolg. Wir bedanken uns bei allen, die am Samstag gekommen sind und uns unterstützt haben.",
+        "part3": "Das Sortiment umfasst ca. 60 Qualitätsweine aus Bulgarien, sowie Käse- und Fleischspezialitäten. Da diese wenig bekannt sind, bieten wir jeden Samstag ein kleines Probierbuffet und Weine zur Verkostung an.",
+        "part4": "Kommen Sie vorbei und überzeugen Sie sich von dem guten Geschmack unserer Produkte.",
+        "part5": "Wir freuen uns auf Sie!",
+        "part6": "Ihre Familie Angelov"
     },
     "products": {
         "part1": "Bugarische Qualitätsprodukte:",
